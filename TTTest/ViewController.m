@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSLog(@"kaishishuohua");
     NSLog(@"12345678");
+    NSLog(@"我是中国人");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
